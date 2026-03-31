@@ -1,15 +1,4 @@
 # PokéDex — React + TypeScript
-
-Moderна PokéDex aplikācija veidota ar React, TypeScript un Tailwind CSS.
-
-## 🚀 Tehnoloģijas
-
-- **React 18** — komponentu arhitektūra, `useState`, `useEffect`
-- **TypeScript** — pilna tipu drošība
-- **Vite** — ātrais dev serveris un build rīks
-- **Tailwind CSS** — responsīvs dizains
-- **Axios** — API pieprasījumi uz PokéAPI
-
 ## 📁 Projekta struktūra
 
 ```
