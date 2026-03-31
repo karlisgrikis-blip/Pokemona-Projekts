@@ -1,4 +1,3 @@
-# Pokemona-Projekts[README.md](https://github.com/user-attachments/files/26386512/README.md)
 # PokéDex — React + TypeScript
 
 Moderна PokéDex aplikācija veidota ar React, TypeScript un Tailwind CSS.
