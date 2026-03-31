@@ -4,6 +4,7 @@ import { FilterBar } from './FilterBar';
 import { PokemonCard } from './PokemonCard';
 import type { Pokemon } from '../../types';
 
+
 interface CatalogPageProps {
   onSelect: (p: Pokemon) => void;
 }
